@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "supported_formats": {
+      "min_inclusive": 22,
+      "max_inclusive": 32
+    },
+    "description": "§6Transparent Scoreboard\n§fby Akis §8(dc: yeahakis)"
+  }
+}
